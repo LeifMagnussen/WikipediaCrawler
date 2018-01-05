@@ -1,0 +1,2 @@
+# WikipediaCrawler
+This is a wikipedia game inspired by Daniel Shiffman's example from his 75th coding challenge entitled Wikipedia API Link(https://www.youtube.com/watch?v=RPz75gcHj18&amp;t=864s) This game is played by entering a word into the search box and then waiting and seeing how long it takes to randomly find the word 'day' in a wikipedia title. This game was created for me to practice my javascript and using the P5 standard libraries and functions
